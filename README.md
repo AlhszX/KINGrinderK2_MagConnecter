@@ -3,4 +3,7 @@
 need BOSL2(https://github.com/BelfrySCAD/BOSL2)
 
 updating... ...
-未完成--- ---
+
+细节更新中
+
+大概已经可以用了
