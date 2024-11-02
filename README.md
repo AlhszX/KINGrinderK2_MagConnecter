@@ -1,4 +1,4 @@
-# KINGrinderK2_MagConnecter
+# KINGrinderK2_MagConnector
 
 need BOSL2(https://github.com/BelfrySCAD/BOSL2)
 
