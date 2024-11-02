@@ -1,14 +1,17 @@
 include <BOSL2/std.scad>
 include <BOSL2/threading.scad>
 
-fn = 270;
+fn = 30;
+
+//daiso 最小号钕磁铁 d=6 h=3
+//seria不行 磁铁厚度不标准 大概h=2.6到2.8
+mag_d = 6;
+mag_h = 3;
 
 //磁铁数量 单侧
 mag_num = 12;
-
-//daiso,seria 最小号钕磁铁 d=6 h=3
-mag_d = 6;
-mag_h = 2.7;
+//感觉这个大小的磁铁 磁力还可以 上下各8个应该也能行
+//mag_num = 8;
 
 //k2尺寸 壁厚3 外直径52
 k2_outter_d = 52;
